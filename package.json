@@ -1,0 +1,17 @@
+{
+  "name": "universal-editor.github.io",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/universal-editor/universal-editor.github.io.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/universal-editor/universal-editor.github.io/issues"
+  },
+  "devDependencies": {
+    "webpack": "^3.5.5",
+    "lodash": "^4.17.4"
+  }
+}
